@@ -15,8 +15,8 @@ This repository allows you to receive **real-time notifications** directly on yo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/FalTama/trakteer-webhook.git
-cd trakteer-webhook
+git clone https://github.com/FalTama/trakteer-custom-webhook.git
+cd trakteer-custom-webhook
 ```
 
 ### 2. Install dependencies
